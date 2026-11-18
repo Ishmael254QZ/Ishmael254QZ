@@ -1,26 +1,26 @@
 <div align="center">
 
-# Hi, I'm Ishmael Munyalo 👋
+# Hello there, I'm Ishmael Munyalo 
 
-### Software Developer | Computer Science Student
+### Software Aspirant | Computer Science Student
 
-Building modern web applications and exploring the world of technology.
+passionate about Building modern web applications and exploring the world of technology.
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Ishmael254QZ?style=social)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Little About Me
 
 - 🎓 Computer Science student at University of Embu.
 - 💻 Passionate about Software Development.
 - 🌱 Currently learning the MERN Stack.
-- 🔭 Building real-world web applications.
+- 🔭 Passionate about Building real-world web applications.
 - 🎯 Working towards becoming a professional Software Developer.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -41,13 +41,13 @@ Building modern web applications and exploring the world of technology.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Statistics
+## My GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishmael254QZ&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishmael254QZE&layout=compact&theme=tokyonight)
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ishmael-munyalo)
 
@@ -57,6 +57,6 @@ Building modern web applications and exploring the world of technology.
 
 <div align="center">
 
-### "Tech Enthusiast." 🚀
+### "Tech Enthusiast." 
 
 </div>
