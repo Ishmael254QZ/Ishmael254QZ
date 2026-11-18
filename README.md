@@ -52,7 +52,7 @@ passionate about Building modern web applications and exploring the world of tec
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishmael254QZ&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishmael254QZ E&layout=compact&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Ishmael254QZ
 
 ## Connect With Me
 
