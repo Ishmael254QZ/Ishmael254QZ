@@ -17,9 +17,9 @@ passionate about Building modern web applications and exploring the world of tec
 
 ## Little About Me
 
- 🎓 Computer Science student at University of Embu.
+ 🎓 Computer Science student at University of Embu.          
  💻 Passionate about Software Development.
- 🌱 Currently learning the MERN Stack.
+ 🌱 Currently learning the MERN Stack.            
  🔭 Passionate about Building real-world web applications.
  🎯 Working towards becoming a professional Software Developer.
 
