@@ -13,8 +13,6 @@ passionate about Building modern web applications and exploring the world of tec
 
 </div>
 
----
-
 ## Little About Me
 
  🎓 Computer Science student at University of Embu. 
