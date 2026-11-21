@@ -9,7 +9,7 @@
 
 passionate about Building modern web applications and exploring the world of technology.
 
-[![GitHub followers](https://img.shields.io/github/followers/Ishmael254QZ?style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/Ishmael254QZ?style=social)](https://github.com/Ishmael254QZ)
 
 </div>
 
