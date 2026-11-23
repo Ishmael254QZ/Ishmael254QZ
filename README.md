@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-# Hello there, I' Ishmael Munyalo 
+# Hello there, I'm Ishmael Munyalo 
 
 ### Software Aspirant | Computer Science Student
 
