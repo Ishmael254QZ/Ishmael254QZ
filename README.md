@@ -5,7 +5,7 @@
 
 # Hello there, I'm Ishmael Munyalo 
 
-### ASoftware Aspirant | Computer Science Student
+### A Software Aspirant | Computer Science Student
 
 Passionate about Building modern web applications and exploring the world of technology.
 
